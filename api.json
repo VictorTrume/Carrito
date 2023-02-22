@@ -1,0 +1,77 @@
+[
+    {
+        "precio": 60.00,
+        "id": 1, 
+        "title": "Hot dog",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c1.png" 
+    },
+    {
+        "precio": 70.00,
+        "id": 2,
+        "title": "Soda",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c2.png" 
+    },
+    {
+        "precio": 30.00,
+        "id": 3,
+        "title": "Cheetos",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c3.png" 
+    },
+    {
+        "precio": 45.00,
+        "id": 4,
+        "title": "MnMs",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c4.png" 
+    },
+    {
+        "precio": 30.00,
+        "id": 5,
+        "title": "Pelon",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c5.png" 
+    },
+    {
+        "precio": 70.00,
+        "id": 6,
+        "title": "Nachos",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c6.png" 
+    },
+    {
+        "precio": 50.00,
+        "id": 7,
+        "title": "Chocolates",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c7.png" 
+    },
+    {
+        "precio": 35.00,
+        "id": 8,
+        "title": "Totis",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c8.png" 
+    },
+    {
+        "precio": 100.00,
+        "id": 9,
+        "title": "Crepas",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c9.png" 
+    },
+    {
+        "precio": 70.00,
+        "id": 10,
+        "title": "Papas",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c10.png" 
+    },
+    {
+        "precio": 70.00,
+        "id": 11,
+        "title": "Icee",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c11.png"
+    },
+    {
+        "precio": 95.00,
+        "id": 12,
+        "title": "Skittles",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/FotosGolosinas/c12.png" 
+    }
+
+
+
+]
